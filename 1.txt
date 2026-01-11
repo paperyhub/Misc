@@ -1,6 +1,8 @@
 {
   "ListHWIDs": [
     "a818d4cff87649ae911bc6b4ffb3f7f6",
-    "93fb2370d7c340f38ef5490db434c116"
+    "93fb2370d7c340f38ef5490db434c116",
+    "793e60f4aeaf41d1be11189e59443071"
   ]
+
 }
